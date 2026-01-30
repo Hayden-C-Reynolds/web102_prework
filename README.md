@@ -4,7 +4,7 @@ Submitted by: **Hayden Reynolds**
 
 **Sea Monster Crowdfunding** is a website for a crowdfunding company that displays information about the games they have funded, including funding status, total contributions, and dollars raised.
 
-Time spent: **~10 hours** spent in total
+Time spent: **~3.5 hours** spent in total
 
 ---
 
